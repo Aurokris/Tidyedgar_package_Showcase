@@ -45,7 +45,7 @@ shinyApp(ui = ui, server = server)
 #### Visualizations
 Here are some visualizations from the project:
 1. Total Assets Over Time by Company:
-   ![Total Assets Over Time by Company](TidyEdgar Visual Output/Total Asset.png)
+   ![Total Assets Over Time by Company](Image/Total Asset.png)
 2. Asset to Liability Ratio Over Time:
    ![Asset to Liability Ratio Over Time](TidyEdgar Visual Output/Asset to Liability Ratio.png)
 3. Net Income by Company Over Time:
