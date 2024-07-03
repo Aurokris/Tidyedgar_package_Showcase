@@ -45,13 +45,16 @@ shinyApp(ui = ui, server = server)
 #### Visualizations
 Here are some visualizations from the project:
 1. Total Assets Over Time by Company:
-   ![Total Assets Over Time by Company](images/Total Assets.png)
+   ![Total Assets Over Time by Company](TidyEdgar Visual Output/Total Asset.png)
 2. Asset to Liability Ratio Over Time:
-   ![Asset to Liability Ratio Over Time](images/ratio.png)
+   ![Asset to Liability Ratio Over Time](TidyEdgar Visual Output/Asset to Liability Ratio.png)
 3. Net Income by Company Over Time:
-   ![Net Income by Company Over Time](images/net_income.png)
+   ![Net Income by Company Over Time](TidyEdgar Visual Output/Net Income by Company.png)
 4. Average Net Margin Over Time:
-   ![Average Net Margin Over Time](images/net_margin.png)
+   ![Average Net Margin Over Time](TidyEdgar Visual Output/Average Net Margin.png)
+5. Total Liabilities Over Time by Compnay:
+   ![Total Liabilities Over time](TidyEdgar Visual Output/Total Liabilities.png)
+
 
 ## Interactive Dashboar
 
