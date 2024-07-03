@@ -53,7 +53,11 @@ Here are some visualizations from the project:
 4. Average Net Margin Over Time:
    ![Average Net Margin Over Time](images/net_margin.png)
 
-## Interactive Dashboard
+## Interactive Dashboar
+
+R SHINY APP
+
+## Learn more about this from my
 - [PowerPoint Presentation](https://docs.google.com/presentation/d/1KhCNE80N4W3HhX1Dh6JBaslNPAcB6HBz/edit?usp=share_link&ouid=103894204561373706275&rtpof=true&sd=true)
 - [LinkedIn Post](link_to_linkedin_post)
 
