@@ -63,6 +63,6 @@ R SHINY APP
 
 ## Learn more about this from my
 - [PowerPoint Presentation](https://docs.google.com/presentation/d/1KhCNE80N4W3HhX1Dh6JBaslNPAcB6HBz/edit?usp=share_link&ouid=103894204561373706275&rtpof=true&sd=true)
-- [LinkedIn Post](link_to_linkedin_post)
+- [LinkedIn Post](https://www.linkedin.com/posts/aurokrishnaa_excited-to-share-my-financial-modeling-project-activity-7214073684825661440-e18Q?utm_source=share&utm_medium=member_desktop)
 
 
