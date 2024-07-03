@@ -42,18 +42,19 @@ ggplot(annual_summary, aes(x = year, y = total_assets, color = company_name, gro
 shinyApp(ui = ui, server = server)
 ```
 
-#### Visualizations
+## Visualizations
 Here are some visualizations from the project:
-1. Total Assets Over Time by Company:
-   ![Total Assets Over Time by Company](Image/Total Asset.png)
-2. Asset to Liability Ratio Over Time:
-   ![Asset to Liability Ratio Over Time](TidyEdgar Visual Output/Asset to Liability Ratio.png)
-3. Net Income by Company Over Time:
-   ![Net Income by Company Over Time](TidyEdgar Visual Output/Net Income by Company.png)
-4. Average Net Margin Over Time:
-   ![Average Net Margin Over Time](TidyEdgar Visual Output/Average Net Margin.png)
-5. Total Liabilities Over Time by Compnay:
-   ![Total Liabilities Over time](TidyEdgar Visual Output/Total Liabilities.png)
+1. **Total Assets Over Time by Company**:
+   ![Total Assets Over Time by Company](./Visual Outputs form the analysis/Total Asset.png)
+2. **Asset to Liability Ratio Over Time**:
+   ![Asset to Liability Ratio Over Time](./Visual Outputs form the analysis/Asset to Liability Ratio.png)
+3. **Net Income by Company Over Time**:
+   ![Net Income by Company Over Time](./Visual Outputs form the analysis/Net Income by Company.png)
+4. **Average Net Margin Over Time**:
+   ![Average Net Margin Over Time](./Visual Outputs form the analysis/Average Net Margin.png)
+5. **Total Liabilities Over Time by Company**:
+   ![Total Liabilities Over Time by Company](./Visual Outputs form the analysis/Total Liabilities.png)
+
 
 
 ## Interactive Dashboar
